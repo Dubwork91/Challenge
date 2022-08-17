@@ -1,0 +1,276 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body{
+      margin: 0px;
+      }
+
+
+  /* HEADER 
+    header>img{
+    width: 10%;
+    padding-left: 20px;
+  }
+  header{
+      background-color:  white;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      padding: 10px;
+  }
+  
+  header > nav {
+      float: right;
+    }
+    nav{
+      padding-right: 150px;
+  }
+  h2,nav,ul,
+  nav > ul > li {
+    display: inline-block;
+  }
+  
+  a{
+      color: black;
+      font-size: 1.4em;
+      text-decoration: none;
+      text-transform: capitalize;
+      padding: 8px 15px;
+  }
+  header>.button{border-radius: 8px; color: #FF6B81;}
+  
+  */
+
+
+  /*
+  Powerful
+  */
+  .become{
+    background-color: #FF6B81;
+    padding: 100px;
+  }
+  
+  #btntr{
+    border: 1px solid white;
+  }
+
+  /*
+  Features
+  */
+
+  #features i{
+    background-color: #FF6B81;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+
+  #features .card{
+    margin-top: 30px;
+  }
+
+/*
+Customers
+*/
+
+.customers img{
+   width: 500px;
+   padding: 50px;
+}
+
+#btncus{
+    background-color:#FF6B81;
+    padding: 5px 20px;
+}
+
+.customers i{
+    background-color: #FF6B81;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/*
+Planets
+*/
+
+.planets{
+    background-color: #FF6B81;
+    padding: 100px;
+  }
+
+  .arrangement{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+  }
+
+  .arrangement h1{
+    font-weight: bold;
+  }
+
+  /*
+Pricing
+*/
+#pricing h1{
+  color: #FF6B81;
+}
+#pricing h2{
+  font-weight: bolder;
+}
+ .ayro p{
+    font-weight: bolder;
+    margin: 20px 250px;
+  }
+
+#btnprice{
+    background-color:#394653;
+    padding: 5px 45px;
+    margin-top: 15px;
+    size: 100%;
+} /*je vais voir après pour la largeur des boutons*/
+
+.what{
+    margin: auto;
+    border: 1px solid rgba(236, 236, 236, 0.884);
+    border-radius: 0px 0px 8px 8px;
+    padding: 0px 3px;
+}
+
+.what h5{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.what i{
+    background-color: transparent;
+    border-radius: 50px;
+    border: 2px solid #FF6B81;
+    color: #FF6B81;
+    font-size: 0.7em;
+    padding: 2px;
+}
+
+.what span{
+    margin-left: 8px;
+}
+
+/*
+Team
+*/
+
+.team h1{
+
+    color: #FF6B81;
+}
+.team h2{
+    font-weight: bolder;
+}
+.team p{
+    font-size: 0.9em;
+}
+
+#t1{
+    background-color: aqua;
+}
+
+#teamp p{
+    color: #FF6B81;
+}
+.team i{
+ float: right;
+ padding: 10px;
+ font-size: 0.8em;
+}
+
+/*
+Ayro
+*/
+
+.imgpar img{
+    width: 5%;
+}
+.imgpar h3{
+  font-size: 1em;
+}
+.imgpar span{
+    font-size: 1em;
+  }
+
+  .ayro p{
+    font-weight: bolder;
+    margin: 20px 250px;
+  }
+
+  .ayro{
+    background-color: rgba(240, 185, 185, 0.075);
+  }
+
+  /*
+  Install
+  */
+
+  .install{
+    background-color: #FF6B81;
+    padding: 100px;
+    text-align: center;
+  }
+  
+  #btntr{
+    border: 1px solid white;
+  }
+
+  .install p{
+    margin: 20px 250px;
+  }
+
+  /*
+  Questions
+  */
+
+  .questions h1{
+
+    color: #FF6B81;
+}
+.questions h2{
+    font-weight: bolder;
+}
+.questions p{
+    font-size: 0.9em;
+    margin: 20px 250px;
+}
+
+.questions{
+    padding: 80px;
+}
+
+/*
+Blogs
+*/
+
+.blogs h1{
+
+    color: #FF6B81;
+}
+.blogs h4{
+    font-weight: bolder;
+    font-size: 1em;
+}
+.blogs h3{
+   color: #FF6B81;
+   font-size: 1em;
+}
+
+.blogs{
+    padding: 80px;
+}
+
+.flex img{
+    width: 20%;
+}
+.flex{
+    display: flex;
+}
